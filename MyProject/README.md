@@ -1,0 +1,1 @@
+This is my first library written in the python programming language. It contains various sorting algorithms, graph algorithms, search algorithms and finally string algorithms.

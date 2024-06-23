@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: MyLibrary
+Version: 0.0.1
+Summary: Different algorithms
+Author: There is should be my name
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+This is my first library written in the python programming language. It contains various sorting algorithms, graph algorithms, search algorithms and finally string algorithms.

@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/MyFirstLibrary/GraphAlgorithms.py
+src/MyFirstLibrary/SearchAlgorithms.py
+src/MyFirstLibrary/SortingAlgorithms.py
+src/MyFirstLibrary/StringAlgorithms.py
+src/MyFirstLibrary/__init__.py
+src/MyLibrary.egg-info/PKG-INFO
+src/MyLibrary.egg-info/SOURCES.txt
+src/MyLibrary.egg-info/dependency_links.txt
+src/MyLibrary.egg-info/top_level.txt
